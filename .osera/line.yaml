@@ -1,0 +1,5 @@
+line: spring-kafka-2.8
+repository: patch-spring-kafka
+members:
+  - org.springframework.kafka:spring-kafka
+  - org.springframework.kafka:spring-kafka-test
